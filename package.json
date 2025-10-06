@@ -1,0 +1,26 @@
+{
+  "name": "pinyin-to-kana",
+  "version": "1.0.0",
+  "description": "Translate Chinese pinyin to Japanese kana.",
+  "keywords": [
+    "chinese",
+    "pinyin",
+    "kana",
+    "japanese"
+  ],
+  "homepage": "https://github.com/Love-Kogasa/pinyinToKana.js#readme",
+  "bugs": {
+    "url": "https://github.com/Love-Kogasa/pinyinToKana.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Love-Kogasa/pinyinToKana.js.git"
+  },
+  "license": "MIT",
+  "author": "Love-Kogasa",
+  "type": "commonjs",
+  "main": "pinyinToKana.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
