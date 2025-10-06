@@ -5,7 +5,7 @@
 # Usage
 ```js
 // 将 mapping.tsv 放到 ./map.tsv
-var p2k = await PinyinToKana.load( "./map.tsv" )
+var p2k = await PinyinToKana.loadDict( "./map.tsv" )
 p2k.pinyinToKana( "ni hao，shi jie." ) // ニーハオ、シージエ
 // p2k.pinyin_to_kana( "ni hao，shi jie" ) ニーshi，jieジエ
 ```

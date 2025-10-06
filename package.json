@@ -1,6 +1,6 @@
 {
   "name": "pinyin-to-kana",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Translate Chinese pinyin to Japanese kana.",
   "keywords": [
     "chinese",
